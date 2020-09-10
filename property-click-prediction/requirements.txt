@@ -1,0 +1,9 @@
+# Dependencies
+
+matplotlib >= 2.0.0
+neupy >= 0.5.1
+numpy >= 1.12.1+mkl
+pandas >= 0.19.2
+scikit_learn >= 0.18.1
+seaborn >= 0.7.1
+xgboost >= 0.6
